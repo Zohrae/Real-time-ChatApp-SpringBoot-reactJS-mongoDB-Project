@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/sockjs-client": "^1.5.4"
+  },
+  "dependencies": {
+    "react-modal": "^3.16.1"
+  }
+}
