@@ -15,7 +15,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-modal": "^3.16.1",
-    "react-router-dom": "^6.27.0",
+    "react-router-dom": "^6.30.2",
     "react-stomp": "^5.1.0",
     "sockjs": "^0.3.24",
     "sockjs-client": "^1.6.1",
